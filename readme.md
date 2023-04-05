@@ -1,2 +1,2 @@
 Hello, first commit .
-I am learning Git and merging.
+I am learning Git and merging and rabasing.
